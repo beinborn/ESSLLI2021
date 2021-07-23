@@ -5,7 +5,7 @@ Welcome to the advanced course on "Analyzing the Cognitive Plausibility of Langu
 In this tutorial, we analyze language models by comparing their internal representations with cognitive signals. We use interpretability methods in order to better understand the information flow in computational language models. 
 
 Monday: <br>
-Lisa Beinborn: "Introduction: Cognitive Plausibility of Language Models"
+Lisa Beinborn: [Introduction: Cognitive Plausibility of Language Models](https://github.com/beinborn/ESSLLI2021/blob/main/slides/Monday.pdf)
 
 Tuesday: <br>
 Nora Hollenstein: "Cognitive Signals of Language Processing"
