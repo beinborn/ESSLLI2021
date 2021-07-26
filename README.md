@@ -2,20 +2,26 @@
 
 Welcome to the advanced course on "Analyzing the Cognitive Plausibility of Language Models" taught by Lisa Beinborn (Vrije Universiteit Amsterdam), Nora Hollenstein (University of Copenhagen), and Willem Zuidema (University of Amsterdam). 
 
-In this tutorial, we analyze language models by comparing their internal representations with cognitive signals. We use interpretability methods in order to better understand the information flow in computational language models. 
+In this course, we analyze language models by comparing their internal representations with cognitive signals. We use interpretability methods in order to better understand the information flow in computational language models. 
+
+The course takes place every day from July 26 to July 30 at 4pm. 
+
+For the first day, we invite you to take a moment to think about the following question: “When is a language model cognitively plausible in your opinion?”
+You can post your answer in the ESSLLI slack channel (laco-beinborn-hollenstein-zuidema) or send it by e-mail. Please also add one sentence about your background (research discipline). 
 
 Monday: <br>
-Lisa Beinborn: [Introduction: Cognitive Plausibility of Language Models](https://github.com/beinborn/ESSLLI2021/blob/main/slides/Monday.pdf)
+[Introduction: Cognitive Plausibility of Language Models](https://github.com/beinborn/ESSLLI2021/blob/main/slides/Monday.pdf) (Lisa Beinborn)
 
 Tuesday: <br>
-Nora Hollenstein: "Cognitive Signals of Language Processing"
+Lecture: "Cognitive Signals of Language Processing" (Nora Hollenstein)
 
 Wednesday: <br>
-Nora Hollenstein: "Predicting Cognitive Signals with Language Models"
+Tutorial: "Predicting Cognitive Signals with Language Models" (Nora Hollenstein)
 
 Thursday: <br>
-Willem Zuidema: "Interpretability of Neural Language Models"
+Lecture: "Interpretability of Neural Language Models" (Willem Zuidema)
 
 Friday: <br>
-Willem Zuidema: "Interpreting Neural Language Models with Cognitive Data"
+Tutorial "Interpreting Neural Language Models" (Willem Zuidema) <br>
+General Discussion (all lecturers and participants)
 
