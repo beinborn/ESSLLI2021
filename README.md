@@ -22,6 +22,6 @@ Thursday: <br>
 Lecture: "Interpretability of Neural Language Models" (Willem Zuidema)
 
 Friday: <br>
-Tutorial "Interpreting Neural Language Models" (Willem Zuidema)
+Tutorial "Interpreting Neural Language Models" (Willem Zuidema) <br>
 General Discussion (all lecturers and participants)
 
