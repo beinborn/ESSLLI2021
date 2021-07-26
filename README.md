@@ -13,7 +13,7 @@ Monday: <br>
 [Introduction: Cognitive Plausibility of Language Models](https://github.com/beinborn/ESSLLI2021/blob/main/slides/Monday.pdf) (Lisa Beinborn)
 
 Tuesday: <br>
-Lecture: "Cognitive Signals of Language Processing" (Nora Hollenstein)
+[Lecture: "Cognitive Signals of Language Processing"](https://github.com/beinborn/ESSLLI2021/blob/main/slides/Tuesday.pdf) (Nora Hollenstein)
 
 Wednesday: <br>
 Tutorial: "Predicting Cognitive Signals with Language Models" (Nora Hollenstein)
