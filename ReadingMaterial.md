@@ -2,7 +2,7 @@
 
 We provide some basic reading material here. More detailed pointers can also be found in the slides. Feel free to contact us for more references. 
 
-### Introduction to Language Modelling
+## Introduction to Language Modelling
 
 Michael Repplinger , Lisa Beinborn , Willem Zuidema: <br>
 [Vector-space models of words and sentences](http://www.nieuwarchief.nl/serie5/pdf/naw5-2018-19-3-167.pdf)
@@ -12,7 +12,7 @@ Chapter 3: [N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pd
 Chapter 9: [Deep Learning Architectures for Sequence Processing](https://web.stanford.edu/~jurafsky/slp3/9.pdf)  <br>
 
 
-### Neural Language Models
+## Neural Language Models
 Matthew Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer (2018): <br>
 [Deep Contextualized Word Representations (ELMO)](https://www.aclweb.org/anthology/N18-1202/)
 
@@ -25,7 +25,7 @@ Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N
 Tom B. Brown et al. (2020): <br>
 [Language Models are Few-Shot Learners (GPT-3)](https://arxiv.org/abs/2005.14165)
 
-### Illustrated Blog Posts
+## Illustrated Blog Posts
 The original ELMO and Bert papers are hard to read. Jay Alammar provides very good conceptual introductions: 
 
 [The illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
@@ -33,7 +33,7 @@ The original ELMO and Bert papers are hard to read. Jay Alammar provides very go
 [The illustrated BERT](http://jalammar.github.io/illustrated-bert/)
 
 
-### Coding Tutorials
+## Coding Tutorials
 [A very basic  LSTM language model in Keras with Dutch training data](https://github.com/beinborn/ESSLLI2021/tree/main/code/lstm_example)
 
 Kristina Gulordava: [An exmple LSTM language model in pytorch](https://github.com/facebookresearch/colorlessgreenRNNs/blob/master/src/language_models/model.py)
@@ -42,7 +42,7 @@ Chris McCormick: [Introductory tutorials to BERT](https://mccormickml.com/tutori
 
 Alexander Rush: [The annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
-### Our Research on Cognitive Plausibility
+## Our Research on Cognitive Plausibility
 
 Samira Abnar, Lisa Beinborn, Rochelle Choenni, Willem Zuidema (Blackbox NLP 2019): <br>
 [Blackbox Meets Blackbox: Representational Similarity and Stability Analysis of Neural Language Models and Brains](https://www.aclweb.org/anthology/W19-4820.pdf)
