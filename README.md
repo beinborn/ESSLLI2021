@@ -19,7 +19,7 @@ Wednesday: <br>
 [Tutorial: "Predicting Cognitive Signals with Language Models"](https://github.com/beinborn/ESSLLI2021/tree/main/code/tutorial1) (Nora Hollenstein)
 
 Thursday: <br>
-Lecture: "Interpretability of Neural Language Models" (Willem Zuidema)
+[Lecture: "Interpretability of Neural Language Models"](https://github.com/beinborn/ESSLLI2021/blob/main/slides/zuidema21esslli21-handout.pdf) (Willem Zuidema)
 
 Friday: <br>
 Tutorial "Interpreting Neural Language Models" (Willem Zuidema) <br>
